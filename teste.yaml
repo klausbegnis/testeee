@@ -1,4 +1,4 @@
-https://github.com/klausbegnis/testeee.gitopenapi: 3.0.3
+openapi: 3.0.3
 info:
   title: eLabFTW REST API v2 Documentation
   description: |
